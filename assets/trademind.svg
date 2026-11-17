@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="330" viewBox="0 0 620 330" role="img" aria-label="TradeMind: AI market analysis for investors and short term traders, run as a public SaaS.">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#13285a"/><stop offset="1" stop-color="#0a1733"/></linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e9d7ae"/><stop offset="0.5" stop-color="#c9a35b"/><stop offset="1" stop-color="#8a6a24"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="618" height="328" rx="20" fill="url(#b)" stroke="#c9a35b" stroke-opacity="0.35" stroke-width="1.5"/>
+  <rect x="40" y="40" width="44" height="3" rx="1.5" fill="url(#g)"/>
+  <text x="40" y="74" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2.5" fill="#c9a35b">BEFORE · FOUNDER</text>
+  <text x="38" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#f7f5f0">TradeMind</text>
+  <text x="40" y="166" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#b8c2d9">AI market analysis for investors and</text>
+  <text x="40" y="192" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#b8c2d9">short term traders, run as a public SaaS.</text>
+  <rect x="40" y="214" width="540" height="1" fill="#c9a35b" fill-opacity="0.3"/>
+  <text x="40" y="262" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#f7f5f0">350+</text><text x="40" y="290" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1.5" fill="#7e8ba8">ACTIVE USERS</text><text x="235" y="262" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#f7f5f0">19+</text><text x="235" y="290" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1.5" fill="#7e8ba8">COUNTRIES</text><text x="430" y="262" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#f7f5f0">3,000+</text><text x="430" y="290" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1.5" fill="#7e8ba8">TRANSACTIONS</text>
+</svg>
